@@ -11,7 +11,7 @@ HTML stands for HyperText Markup Language, which is used to structure the conten
 
 To create signup/login page we use <form> to store user input.
 
-###### <form> - Forms are used to store user input.
+#### <form> - Forms are used to store user input.
 <form> can contain one or more form elements.
 
 1. <input> - specifies an input field where the user can enter data.
